@@ -8,7 +8,7 @@
     <img alt="Used languages" src="https://img.shields.io/github/languages/count/leealvescosta/gostack-database-upload">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 </p>
-<blockquote><p align="center">“A vida necessita pequenos <strong>começos</strong>”</blockquote>
+<blockquote><p align="center">“Aos poucos, quanto mais você se esforça, tudo fica mais simples!”</blockquote>
 
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>
